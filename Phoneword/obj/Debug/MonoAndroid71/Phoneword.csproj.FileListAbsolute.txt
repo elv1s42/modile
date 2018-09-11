@@ -1,3 +1,0 @@
-C:\Users\Mariam\Desktop\C# задания\Phoneword\Phoneword\obj\Debug\MonoAndroid71\Phoneword.csprojAssemblyReference.cache
-C:\Users\Mariam\Desktop\C# задания\Phoneword\Phoneword\obj\Debug\MonoAndroid71\res.flag
-C:\Users\Mariam\Desktop\C# задания\Phoneword\Phoneword\obj\Debug\MonoAndroid71\Phoneword.csproj.CoreCompileInputs.cache
