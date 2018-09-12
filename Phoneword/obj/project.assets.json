@@ -355,21 +355,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mariam\\.nuget\\packages\\": {}
+    "C:\\Users\\Evgeniy_Kosjakov\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mariam\\Desktop\\C# задания\\Phoneword\\Phoneword\\Phoneword.csproj",
+      "projectUniqueName": "C:\\Users\\Evgeniy_Kosjakov\\Documents\\GitHub\\modile\\Phoneword\\Phoneword.csproj",
       "projectName": "Phoneword",
-      "projectPath": "C:\\Users\\Mariam\\Desktop\\C# задания\\Phoneword\\Phoneword\\Phoneword.csproj",
-      "packagesPath": "C:\\Users\\Mariam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mariam\\Desktop\\C# задания\\Phoneword\\Phoneword\\obj\\",
+      "projectPath": "C:\\Users\\Evgeniy_Kosjakov\\Documents\\GitHub\\modile\\Phoneword\\Phoneword.csproj",
+      "packagesPath": "C:\\Users\\Evgeniy_Kosjakov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Evgeniy_Kosjakov\\Documents\\GitHub\\modile\\Phoneword\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Mariam\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Evgeniy_Kosjakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid71"
